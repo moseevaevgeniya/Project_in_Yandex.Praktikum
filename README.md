@@ -1,4 +1,4 @@
-# -yandex_praktikum
-Portfolio  
+# Yandex_praktikum
+# Portfolio    
 
 Здесь собраны реализованные проекты в рамках программы "Аналитик данных"
