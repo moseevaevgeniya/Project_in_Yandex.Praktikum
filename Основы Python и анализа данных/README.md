@@ -1,2 +1,2 @@
 # Яндекс.Музыка  
-[HTML](file:///C:/Users/Евгения/Downloads/yandex_music_project.html)
+[ipynb](file:///C:/Users/Евгения/Downloads/yandex_music_project.html)
