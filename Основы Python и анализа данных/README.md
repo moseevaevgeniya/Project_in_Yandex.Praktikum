@@ -1,2 +1,2 @@
 # 1. Исследование музыки больших городов | Основы Python и анализа данных 
-[ipynb](http://localhost:8888/notebooks/%D0%9D%D0%BE%D0%B2%D0%B0%D1%8F%20%D0%BF%D0%B0%D0%BF%D0%BA%D0%B0%20(2)/yandex_music_project.ipynb#)
+[ipynb](https://github.com/moseevaevgeniya/-yandex_praktikum/blob/main/Основы%20Python%20и%20анализа%20данных/yandex_music_project.ipynb) [html](https://github.com/moseevaevgeniya/-yandex_praktikum/blob/main/Основы%20Python%20и%20анализа%20данных/yandex_music_project.ipynb)
