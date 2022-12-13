@@ -1,5 +1,5 @@
 # Исследование надежности заемщиков банка | Предобработка данных  
-[ipynb](https://github.com/moseevaevgeniya/-yandex_praktikum/blob/main/Основы%20Python%20и%20анализа%20данных/yandex_music_project.ipynb) [html](https://github.com/moseevaevgeniya/-yandex_praktikum/blob/main/Основы%20Python%20и%20анализа%20данных/yandex_music_project.html)
+[ipynb](https://github.com/moseevaevgeniya/-yandex_praktikum/blob/main/2.Предобработка%20данных/credit_scoring_project.ipynb) [html](https://github.com/moseevaevgeniya/-yandex_praktikum/blob/main/Основы%20Python%20и%20анализа%20данных/yandex_music_project.html)
 ## Описание проекта   
 Требуется разобраться, влияет ли семейное положение и количество детей клиента на факт погашения кредита в срок. Входные данные от банка — статистика о платёжеспособности клиентов.  
 ## Навыки и инструменты  
