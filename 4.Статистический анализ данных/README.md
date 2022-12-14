@@ -1,5 +1,5 @@
 ## Определение перспективного тарифа для телеком-компании | Статистический анализ данных  
-[ipynb]() [html]()
+[ipynb](https://github.com/moseevaevgeniya/-yandex_praktikum/blob/main/4.Статистический%20анализ%20данных/mobile_operator_project%20(1).ipynb) [html]()
 ### Описание проекта  
 ### Навыки и инструменты  
 ### Вывод  
