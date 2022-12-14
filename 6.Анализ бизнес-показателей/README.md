@@ -1,5 +1,5 @@
 ## Анализ бизнес-показателей развлекательного приложения Procrastinate Pro+ |  Анализ бизнес-показателей  
-[ipynb]() [html](https://raw.githubusercontent.com/moseevaevgeniya/-yandex_praktikum/main/6.Анализ%20бизнес-показателей/app_analysis.html)
+[ipynb](https://github.com/moseevaevgeniya/-yandex_praktikum/blob/main/6.Анализ%20бизнес-показателей/app_analysis.ipynb) [html](https://raw.githubusercontent.com/moseevaevgeniya/-yandex_praktikum/main/6.Анализ%20бизнес-показателей/app_analysis.html)
 ### Описание проекта   
 Есть данные о пользователях, привлечённых с 1 мая по 27 октября 2019 года:    
 - лог сервера с данными об их посещениях   
