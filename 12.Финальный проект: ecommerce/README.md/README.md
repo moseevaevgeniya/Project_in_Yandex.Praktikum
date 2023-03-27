@@ -11,5 +11,5 @@
  
 ### Выводы
 
-#### [Дашборд ](https://public.tableau.com/authoring/ecommerce_16617067557750/Dashboard1#1)
+#### [Дашборд в Tableau Public](https://public.tableau.com/authoring/ecommerce_16617067557750/Dashboard1#1)
 #### [Презентация](https://disk.yandex.ru/i/0LoyQIuD2aTd9g)
