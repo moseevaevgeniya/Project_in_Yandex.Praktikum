@@ -1,5 +1,5 @@
 ## Проект: E-commerce — Анализ товарного ассортимента  
-[ipynb](https://github.com/moseevaevgeniya/-yandex_praktikum/blob/911c9d6e5432db6d5a4d433178f6b3f3112b43ab/12.%D0%A4%D0%B8%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9%20%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82:%20ecommerce/README.md/e_commerce.ipynb) [html]()
+[ipynb](https://github.com/moseevaevgeniya/-yandex_praktikum/blob/911c9d6e5432db6d5a4d433178f6b3f3112b43ab/12.%D0%A4%D0%B8%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9%20%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82:%20ecommerce/README.md/e_commerce.ipynb) [html](https://github.com/moseevaevgeniya/-yandex_praktikum/blob/d5940efb6f1736e0da7d6ac7d9b1005a979034b0/12.%D0%A4%D0%B8%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9%20%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82:%20ecommerce/README.md/e_commerce.html)
 ### Описание проекта
 Проведём анализ товарного ассортимента интернет-магазина товаров для дома и быта «Пока все ещё тут», найдём точки роста и поделимся нашими выводами с менеджерами отделов маркетинга и продаж.  
 ### Навыки и инструменты  
